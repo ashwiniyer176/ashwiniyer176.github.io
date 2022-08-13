@@ -4036,3 +4036,9 @@ body.is-preload #sidebar nav ul li {
 	}
 
 }
+
+#social-media {
+	display: flex;
+	justify-content: space-between;
+	margin-right: 80%;
+}
