@@ -4043,6 +4043,10 @@ body.is-preload #sidebar nav ul li {
 	margin-right: 80%;
 }
 
+#social-media a {
+	margin-right: 15px;
+}
+
 #footer .inner .quote {
 	display: flex;
 	align-items: center;
