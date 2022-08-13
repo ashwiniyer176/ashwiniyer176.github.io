@@ -4042,3 +4042,9 @@ body.is-preload #sidebar nav ul li {
 	justify-content: space-between;
 	margin-right: 80%;
 }
+
+#footer .inner .quote {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
